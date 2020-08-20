@@ -1,5 +1,5 @@
 import React from 'react';
-import Game from '.Game/components/game/Game';
+import Game from './components/game/Game';
 import './App.css';
 import raccoon from './assets/images/raccoon.png'
 import squirrel from './assets/images/squirrel.png'

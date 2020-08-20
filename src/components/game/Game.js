@@ -1,6 +1,6 @@
 import React from 'react';
-import ScoreBoard from './components/scoreboard/Scoreboard';
-import Team from './components/team/Team';
+import ScoreBoard from './../scoreboard/Scoreboard';
+import Team from './../team/Team';
 import fireball from '../../assets/audio/smb_fireball.wav';
 import upsound from '../../assets/audio/smb_1-up.wav';
 
